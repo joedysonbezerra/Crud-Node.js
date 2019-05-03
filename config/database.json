@@ -1,0 +1,4 @@
+{
+  "url": "mongodb://localhost/crudUpe",
+  "flag": { "useNewUrlParser": "true", "useCreateIndex": "true" }
+}
